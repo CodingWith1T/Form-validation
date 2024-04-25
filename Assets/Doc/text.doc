@@ -1,0 +1,46 @@
+Day 1 : HTML
+
+<!-- Topic -->
+
+Introduction, Basic, Elements, Attributes, Heading, Paragraphs, Style, Formatting(<br>,<Strong>,<i>),  
+colors(RGB,RGBA,Hexa), HTML_CSS, Links, Image, List, Table, Block & Inline Element Tag, Div, span, Classes, Id, filePaths, iframe,
+Forms, HTML Layout.
+
+
+Day 2 : CSS
+
+/* Topic */
+
+Types : Inline CSS, Internal CSS, External CSS.s
+Introduction, Selectors(h1,p,img,span,div,section etc), Colors (RGB,Hex), Background, Border, Margins, Padding,
+Height/Width, Box Model, Text(align,Trasnformation,Decoration,Spacing), Font, Icons(<i></i>), Links, Table, Display,
+Position, Max-width, Z-index, OverFlow, Float, Align, Pseudo-Class(:active,:Hover,:Link), Opacity, Navbar, Forms.
+
+Day 3 : BootStrap
+
+
+Day 4 - 5 : JavaScript
+
+// Topic 
+
+Introduction, Variables(var, let, const), Data Types(Bigint,String,Number,Boolean,undefine,null), Functions,
+object, Events(onmouseover,onclick,onchange,onkeydown), String, String Methods
+
+Day 6 : PHP
+
+// Topic 
+
+Syntax, Comments, Variables, Echo / Print, Data Types, Strings, Numbers, Casting, Math, Constants, Magic Constants, Operators, If...Else...Elseif, Switch, Loop, Functions, Arrays.
+
+
+Day 7 : PHP Forms
+
+PHP Form Validation using JavaScript.
+
+Day 8 : PHP 
+
+File Handling, File Open/Read, File Create/Write, Cookie, MySQL Create Database, MySql Connect, MySQL Create Table. 
+
+Day 9 : PHP 
+
+CRUD operation using Front-end to DataBase, Also Metch the Login Details to DataBase Details for Login the User. if User was Not found it will retrun, Or Register.

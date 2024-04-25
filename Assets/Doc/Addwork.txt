@@ -1,0 +1,13 @@
+Unique email validation 
+Drop Down - country,state,city
+check box - hobbies with multiple options using mysql 
+Radio button : gender 
+upload image 
+parament address or multiple
+need alert on delete
+add page
+Select all options with single delete
+Add Department Master
+Add Time Stamp in ind
+phone number or Fex
+Add child user
